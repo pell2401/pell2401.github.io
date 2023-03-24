@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1366 768">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #7ac943;
+      }
+
+      .cls-2 {
+        font-family: Meiryo-Italic, Meiryo;
+        font-size: 316px;
+        font-style: italic;
+      }
+
+      .cls-3 {
+        fill: #ff7bac;
+      }
+
+      .cls-4 {
+        fill: #3fa9f5;
+      }
+
+      .cls-5 {
+        fill: url(#_名称未設定グラデーション_54);
+      }
+
+      .cls-6 {
+        fill: #ff931e;
+      }
+
+      .cls-7 {
+        fill: #ff1d25;
+      }
+    </style>
+    <linearGradient id="_名称未設定グラデーション_54" data-name="名称未設定グラデーション 54" x1="0" y1="384" x2="1366" y2="384" gradientUnits="userSpaceOnUse">
+      <stop offset=".03" stop-color="#cce0f4"/>
+      <stop offset=".04" stop-color="#c2daf0"/>
+      <stop offset=".06" stop-color="#a9cce7"/>
+      <stop offset=".08" stop-color="#80b5d8"/>
+      <stop offset=".09" stop-color="#67a8d0"/>
+      <stop offset=".18" stop-color="#1e9cd7"/>
+      <stop offset=".18" stop-color="#229dd7"/>
+      <stop offset=".22" stop-color="#3ea8dc"/>
+      <stop offset=".25" stop-color="#4fafdf"/>
+      <stop offset=".27" stop-color="#56b2e1"/>
+      <stop offset=".27" stop-color="#56b2e1"/>
+      <stop offset=".36" stop-color="#58b3e1"/>
+      <stop offset=".37" stop-color="#5ab4e1"/>
+      <stop offset=".41" stop-color="#65b8e3"/>
+      <stop offset=".45" stop-color="#69bae4"/>
+      <stop offset=".54" stop-color="#6abae4"/>
+      <stop offset=".59" stop-color="#56addd"/>
+      <stop offset=".62" stop-color="#4aa6d9"/>
+      <stop offset=".69" stop-color="#9bcdec"/>
+      <stop offset=".7" stop-color="#8ec6e8"/>
+      <stop offset=".71" stop-color="#6eb4df"/>
+      <stop offset=".73" stop-color="#3b98d0"/>
+      <stop offset=".75" stop-color="#047ac1"/>
+      <stop offset=".88" stop-color="#98cceb"/>
+      <stop offset=".9" stop-color="#8bc2e4"/>
+      <stop offset=".93" stop-color="#6baad2"/>
+      <stop offset=".96" stop-color="#3784b5"/>
+      <stop offset="1" stop-color="#005b97"/>
+    </linearGradient>
+  </defs>
+  <g id="_レイヤー_1-2" data-name="レイヤー 1">
+    <g id="_文字レイヤー" data-name="文字レイヤー">
+      <g>
+        <rect class="cls-5" width="1366" height="768"/>
+        <polygon class="cls-3" points="500.5 543.87 465.37 624.99 512.28 699.92 424.27 691.58 367.51 759.34 348.25 673.07 266.26 640.02 342.36 595.04 348.45 506.85 414.75 565.33 500.5 543.87"/>
+        <rect class="cls-4" x="170" y="17" width="271" height="160"/>
+        <rect class="cls-1" x="345" y="57" width="271" height="160"/>
+        <rect class="cls-6" x="569" y="21" width="271" height="160"/>
+        <rect class="cls-7" x="754" y="57" width="271" height="160"/>
+        <rect class="cls-3" x="916" y="23" width="271" height="160"/>
+        <text class="cls-2" transform="translate(48.15 493.34)"><tspan x="0" y="0">電磁気学</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
